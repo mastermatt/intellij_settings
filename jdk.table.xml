@@ -1,0 +1,71 @@
+<application>
+  <component name="ProjectJdkTable">
+    <jdk version="2">
+      <name value="Helios Vagrant" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.12" />
+      <homePath value="vagrant:///Users/matt.wilson/Playground/helios/opt/wp/app/helios/virtualenv/bin/python" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-429994688" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-2018167286" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/2081381783" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/1433597540" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/1856166436" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-1987081693" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-1872565086" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-1199203999" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional VAGRANT_FOLDER="$USER_HOME$/Playground/helios" INTERPRETER_PATH="/opt/wp/app/helios/virtualenv/bin/python" HELPERS_PATH="/home/vagrant/.pycharm_helpers" INITIALIZED="false" VALID="true" SKELETONS_PATH="" VERSION="Python 2.7.12">
+        <PathMappingSettings>
+          <option name="pathMappings">
+            <list>
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-429994688" remote-root="/opt/wp/app/helios/virtualenv/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-2018167286" remote-root="/usr/local/lib/python2.7-helios/lib/python2.7" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/2081381783" remote-root="/usr/local/lib/python2.7-helios/lib/python2.7/plat-linux2" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/1433597540" remote-root="/usr/local/lib/python2.7-helios/lib/python2.7/lib-tk" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/1856166436" remote-root="/opt/wp/app/helios/virtualenv/lib/python2.7/site-packages" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-1987081693" remote-root="/opt/wp/app/helios/virtualenv/lib/python2.7/site-packages/newrelic-2.74.0.54" />
+              <mapping local-root="$USER_HOME$/Library/Caches/PyCharm2016.3/remote_sources/-1199203999/-1872565086" remote-root="/opt/wp/app/helios/virtualenv/lib/python2.7/site-packages/newrelic-2.78.0.57" />
+            </list>
+          </option>
+        </PathMappingSettings>
+      </additional>
+    </jdk>
+    <jdk version="2">
+      <name value="Python 2.7.10 (/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7)" />
+      <type value="Python SDK" />
+      <version value="Python 2.7.10" />
+      <homePath value="/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7" />
+      <roots>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Python/2.7/site-packages/pip-1.5.4-py2.7.egg" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-darwin" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/plat-mac/lib-scriptpackages" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-tk" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/lib-dynload" />
+            <root type="simple" url="file:///System/Library/Frameworks/Python.framework/Versions/2.7/Extras/lib/python/PyObjC" />
+            <root type="simple" url="file:///Library/Python/2.7/site-packages" />
+            <root type="simple" url="file://$USER_HOME$/Library/Caches/PyCharm2016.3/python_stubs/-2125986627" />
+            <root type="simple" url="file://$APPLICATION_HOME_DIR$/helpers/python-skeletons" />
+          </root>
+        </classPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </jdk>
+  </component>
+</application>
