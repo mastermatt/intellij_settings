@@ -5,7 +5,7 @@
     <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
-  <template name="WP Nose Test" value="@wp.nose.setup_test()&#10;def test_$END$()" toReformat="false" toShortenFQNames="true">
+  <template name="WP Nose Test" value="@wp.nose.setup_test()&#10;def test_$END$()" description="" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="Python" value="true" />
     </context>
