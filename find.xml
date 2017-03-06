@@ -3,7 +3,7 @@
     <option name="customScope" value="Project 'Helios'" />
     <option name="defaultScopeName" value="Project 'Helios'" />
     <option name="SEARCH_SCOPE" value="Project 'Helios'" />
-    <option name="FILE_MASK" value="*.py" />
+    <option name="FILE_MASK" value="*.jade" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.jsp</mask>
@@ -14,8 +14,8 @@
       <mask>*.css</mask>
       <mask>*.mxml</mask>
       <mask>*.html</mask>
-      <mask>*.jade</mask>
       <mask>*.py</mask>
+      <mask>*.jade</mask>
     </recentFileMasks>
   </component>
 </application>
