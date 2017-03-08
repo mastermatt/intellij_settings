@@ -27,6 +27,7 @@
       <mapping pattern="Gemfile" type="textmate" />
       <mapping pattern="Rakefile" type="textmate" />
       <mapping pattern="Berksfile.lock" type="textmate" />
+      <mapping pattern="html.erb" type="textmate" />
       <mapping pattern="makefile" type="textmate" />
       <mapping pattern="erb" type="textmate" />
       <mapping pattern="Deliverfile" type="textmate" />
@@ -45,7 +46,6 @@
       <mapping pattern="Cheffile" type="textmate" />
       <mapping pattern="rhtml" type="textmate" />
       <mapping pattern="rb" type="textmate" />
-      <mapping pattern="html.erb" type="textmate" />
       <mapping pattern="Gymfile" type="textmate" />
       <mapping pattern="prawn" type="textmate" />
       <mapping pattern="gemspec" type="textmate" />
