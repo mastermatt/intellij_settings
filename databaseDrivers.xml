@@ -51,7 +51,7 @@
       <artifact name="SQL Server" use="true" />
       <option name="auto-sync" value="false" />
     </driver>
-    <driver id="java.sql.Driver" name="Pervasive" dialect="GenericSQL" driver-class="com.pervasive.jdbc.v2.Driver">
+    <driver id="java.sql.Driver" name="Pervasive" dialect="SQL92" driver-class="com.pervasive.jdbc.v2.Driver">
       <url-template name="default" template="jdbc:pervasive://[{host::localhost}[:{port::1583}]][/{database::pervasive}?]" />
       <option name="auto-commit" value="false" />
       <option name="auto-sync" value="true" />
