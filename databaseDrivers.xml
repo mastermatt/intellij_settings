@@ -38,15 +38,9 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="postgresql" name="PostgreSQL" dialect="PostgreSQL">
-      <artifact name="PostgreSQL" use="true">
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-9.4-1201.jdbc4.jar</url>
-        </library>
-        <library>
-          <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/postgresql-driver-license.txt</url>
-        </library>
-      </artifact>
+      <artifact name="PostgreSQL" use="true" version="9.4-1201" />
       <option name="auto-sync" value="true" />
+      <option name="auto-commit" value="true" />
     </driver>
     <driver id="db2" name="DB2 (LUW)" dialect="DB2">
       <artifact name="DB2" use="true" />
@@ -58,16 +52,17 @@
       <option name="auto-sync" value="false" />
     </driver>
     <driver id="java.sql.Driver" name="Pervasive" dialect="GenericSQL" driver-class="com.pervasive.jdbc.v2.Driver">
+      <url-template name="default" template="jdbc:pervasive://[{host::localhost}[:{port::1583}]][/{database::pervasive}?]" />
       <option name="auto-commit" value="false" />
       <option name="auto-sync" value="true" />
       <library>
-        <url>file://$USER_HOME$/Desktop/PervasiveJdbcDriver/jpscs.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/pervasive/jpscs.jar</url>
       </library>
       <library>
-        <url>file://$USER_HOME$/Desktop/PervasiveJdbcDriver/pvjdbc2.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/pervasive/pvjdbc2.jar</url>
       </library>
       <library>
-        <url>file://$USER_HOME$/Desktop/PervasiveJdbcDriver/pvjdbc2x.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/pervasive/pvjdbc2x.jar</url>
       </library>
     </driver>
     <driver id="db2.jtopen" name="DB2 (JTOpen)" dialect="DB2">
