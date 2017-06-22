@@ -14,8 +14,6 @@
       <mask>*.mxml</mask>
       <mask>*.html</mask>
       <mask>*.jade</mask>
-      <mask>*.p</mask>
-      <mask>*.</mask>
       <mask>*.c</mask>
       <mask>*.co</mask>
       <mask>*.cof</mask>
@@ -23,6 +21,12 @@
       <mask>*.coffe</mask>
       <mask>*.coffee</mask>
       <mask>*.py</mask>
+      <mask>*.p</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
     </recentFileMasks>
   </component>
 </application>
