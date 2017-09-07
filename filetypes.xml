@@ -4,6 +4,7 @@
     <extensionMap>
       <mapping pattern=".make" type="PLAIN_TEXT" />
       <mapping pattern=".jshint" type="PLAIN_TEXT" />
+      <mapping pattern="secret-agent" type="PLAIN_TEXT" />
       <mapping pattern="aaaa" type="PLAIN_TEXT" />
       <mapping pattern="absolute_schema" type="PLAIN_TEXT" />
       <mapping pattern="test" type="PLAIN_TEXT" />
