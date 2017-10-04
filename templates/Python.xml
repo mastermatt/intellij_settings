@@ -1,0 +1,13 @@
+<templateSet group="Python">
+  <template name="super" value="super($class$, self).$method$($end$)" description="Generates a 'super' call" toReformat="false" toShortenFQNames="true">
+    <variable name="class" expression="pyClassName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="method" expression="pyFunctionName()" defaultValue="" alwaysStopAt="false" />
+    <variable name="end" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
+  </template>
+  <template name="WP Nose Test" value="@wp.nose.setup_test()&#10;def test_$END$()" description="" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="Python" value="true" />
+    </context>
+  </template>
+</templateSet>

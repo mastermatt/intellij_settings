@@ -1,0 +1,16 @@
+<toolSet name="External Tools">
+  <tool name="isort" description="isort" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/isort" />
+      <option name="PARAMETERS" value="$FilePath$" />
+      <option name="WORKING_DIRECTORY" value="/usr/local/bin" />
+    </exec>
+  </tool>
+  <tool name="Modernize" description="Python modernize for py2 + six" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="true" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="/usr/local/bin/python-modernize" />
+      <option name="PARAMETERS" value="-wn $FilePath$" />
+      <option name="WORKING_DIRECTORY" value="/usr/local/bin" />
+    </exec>
+  </tool>
+</toolSet>
