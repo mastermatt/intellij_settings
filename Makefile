@@ -27,6 +27,12 @@ install-git:
 	$(RM) ~/.gitconfig ~/.gitignore_global
 	$(LN) $(realpath dot_files/gitconfig) ~/.gitconfig
 	$(LN) $(realpath dot_files/gitignore_global) ~/.gitignore_global
+	touch ~/.gitconfig_local
+
+install-gpg:
+	$(RM) ~/.gnupg/gpg.conf ~/.gnupg/gpg-agent.conf
+	$(LN) $(realpath dot_files/gnupg/gpg.conf) ~/.gnupg/gpg.conf
+	$(LN) $(realpath dot_files/gnupg/gpg-agent.conf) ~/.gnupg/gpg-agent.conf
 
 install-gpg:
     $(RM) ~/.gnugp/gpg.conf ~/.gnugp/gpg-agent.conf
