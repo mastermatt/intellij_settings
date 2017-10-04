@@ -44,6 +44,6 @@
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Playground" />
+    <option name="cloneParentDir" value="$USER_HOME$/src" />
   </component>
 </application>
