@@ -47,7 +47,7 @@
       <property name="characterSetResults" value="utf8" />
       <property name="yearIsDateType" value="false" />
       <library>
-        <url>file://$USER_HOME$/Desktop/mariadb-java-client-2.1.2.jar</url>
+        <url>file://$APPLICATION_CONFIG_DIR$/jdbc-drivers/mariadb-java-client-2.1.2.jar</url>
       </library>
     </driver>
     <driver id="derby.remote">
