@@ -1,5 +1,10 @@
 <application>
   <component name="libraryTable">
+    <library name="bundle (v0.0.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES />
+      <JAVADOC />
+      <SOURCES />
+    </library>
     <library name="bundler (v1.15.4, RVM: ruby-2.2.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/bundler-1.15.4/bin" />
