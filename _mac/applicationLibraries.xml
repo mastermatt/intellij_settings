@@ -430,6 +430,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/coderay-1.1.1/bin" />
       </SOURCES>
     </library>
+    <library name="coderay (v1.1.2, RVM: ruby-2.2.0 [commerce]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/coderay-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/coderay-1.1.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/coderay-1.1.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/coderay-1.1.2/bin" />
+      </SOURCES>
+    </library>
     <library name="coercible (v1.0.0, Remote:ruby-2.2.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/coercible-1.0.0/config" />
@@ -1648,6 +1658,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/minitest-4.7.5/lib" />
       </SOURCES>
     </library>
+    <library name="minitest (v5.10.3, RVM: ruby-2.2.0 [commerce]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/minitest-5.10.3/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/minitest-5.10.3/lib" />
+      </SOURCES>
+    </library>
     <library name="minitest (v5.4.3, Remote:ruby-2.2.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/-472251510/gems/minitest-5.4.3/lib" />
@@ -1816,6 +1834,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/mysql2-0.3.15/support" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/mysql2-0.3.15/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/mysql2-0.3.15/lib" />
+      </SOURCES>
+    </library>
+    <library name="mysql2 (v0.4.9, RVM: ruby-2.2.0 [commerce]) [gem]">
+      <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.4.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/mysql2-0.4.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/mysql2-0.4.9/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/mysql2-0.4.9/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.4.9" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/mysql2-0.4.9/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/mysql2-0.4.9/support" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/mysql2-0.4.9/lib" />
       </SOURCES>
     </library>
     <library name="net-http-digest_auth (v1.4.1, Remote:ruby-2.2.0-p0) [gem]">
@@ -2052,6 +2084,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/pry-0.10.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/pry-0.10.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="pry (v0.11.1, RVM: ruby-2.2.0 [commerce]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/pry-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/pry-0.11.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/pry-0.11.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/pry-0.11.1/bin" />
       </SOURCES>
     </library>
     <library name="pry-byebug (v3.1.0, Remote:ruby-2.2.0-p0) [gem]">
