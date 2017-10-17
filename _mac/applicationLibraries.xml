@@ -3402,6 +3402,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/pry-doc-0.11.1/lib" />
       </SOURCES>
     </library>
+    <library name="pry-remote (v0.1.8, Remote: ruby-2.2.0-p0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/pry-remote-0.1.8/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/pry-remote-0.1.8/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/pry-remote-0.1.8/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/pry-remote-0.1.8/bin" />
+      </SOURCES>
+    </library>
     <library name="pry-stack_explorer (v0.4.9.2, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/pry-stack_explorer-0.4.9.2/lib" />
