@@ -676,6 +676,18 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/byebug-4.0.5/bin" />
       </SOURCES>
     </library>
+    <library name="byebug (v9.1.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/byebug-9.1.0/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/byebug-9.1.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/byebug-9.1.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/byebug-9.1.0/ext" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/byebug-9.1.0/bin" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/byebug-9.1.0/lib" />
+      </SOURCES>
+    </library>
     <library name="capybara (v2.2.1, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/capybara-2.2.1/lib" />
@@ -742,6 +754,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/coderay-1.1.1/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/coderay-1.1.1/bin" />
+      </SOURCES>
+    </library>
+    <library name="coderay (v1.1.2, Remote: ruby-2.2.0-p0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/coderay-1.1.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/coderay-1.1.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/coderay-1.1.2/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/coderay-1.1.2/bin" />
       </SOURCES>
     </library>
     <library name="coderay (v1.1.2, RVM: ruby-2.2.0 [commerce]) [gem]">
@@ -3384,6 +3406,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/pry-byebug-3.1.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="pry-byebug (v3.5.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/pry-byebug-3.5.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/pry-byebug-3.5.0/lib" />
       </SOURCES>
     </library>
     <library name="pry-doc (v0.11.1, Remote: ruby-2.2.0-p0 (1)) [gem]">
