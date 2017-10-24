@@ -1,6 +1,36 @@
 <application>
   <component name="Perl5ApplicationSettings">
-    <option name="pluginVersion" value="2.200" />
+    <option name="pluginVersion" value="2017.3.2" />
     <option name="popupShown" value="true" />
+  </component>
+  <component name="PerlInterpreters">
+    <perl version="2">
+      <name value="Perl v5.18.2" />
+      <type value="Perl5 Interpreter" />
+      <version value="v5.18.2 for darwin-thread-multi-2level" />
+      <homePath value="/usr/bin" />
+      <roots>
+        <annotationsPath>
+          <root type="composite" />
+        </annotationsPath>
+        <classPath>
+          <root type="composite">
+            <root type="simple" url="file:///Library/Perl/5.18/darwin-thread-multi-2level" />
+            <root type="simple" url="file:///Library/Perl/5.18" />
+            <root type="simple" url="file:///System/Library/Perl/5.18/darwin-thread-multi-2level" />
+            <root type="simple" url="file:///System/Library/Perl/5.18" />
+            <root type="simple" url="file:///System/Library/Perl/Extras/5.18/darwin-thread-multi-2level" />
+            <root type="simple" url="file:///System/Library/Perl/Extras/5.18" />
+          </root>
+        </classPath>
+        <javadocPath>
+          <root type="composite" />
+        </javadocPath>
+        <sourcePath>
+          <root type="composite" />
+        </sourcePath>
+      </roots>
+      <additional />
+    </perl>
   </component>
 </application>
