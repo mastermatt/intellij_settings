@@ -3064,11 +3064,13 @@
     </library>
     <library name="mysql2 (v0.4.9, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/support" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/ext" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs22/mysql2/0.4.9" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/support" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/ext" />
