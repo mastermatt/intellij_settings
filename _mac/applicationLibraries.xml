@@ -196,6 +196,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/ast-2.3.0/lib" />
       </SOURCES>
     </library>
+    <library name="ast (v2.3.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/ast-2.3.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/ast-2.3.0/lib" />
+      </SOURCES>
+    </library>
     <library name="astrolabe (v1.3.1, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/astrolabe-1.3.1/benchmark" />
@@ -3462,6 +3470,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/page_navigation-0.10/lib" />
       </SOURCES>
     </library>
+    <library name="parallel (v1.12.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/parallel-1.12.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/parallel-1.12.0/lib" />
+      </SOURCES>
+    </library>
     <library name="parallel (v1.9.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/parallel-1.9.0/lib" />
@@ -3516,6 +3532,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/parser-2.2.3.0/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/parser-2.2.3.0/bin" />
+      </SOURCES>
+    </library>
+    <library name="parser (v2.4.0.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/parser-2.4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/parser-2.4.0.0/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/parser-2.4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/parser-2.4.0.0/bin" />
       </SOURCES>
     </library>
     <library name="polyglot (v0.3.5, Remote: ruby-2.2.0-p0 (1)) [gem]">
@@ -3620,6 +3646,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/powerpack-0.0.9/lib" />
+      </SOURCES>
+    </library>
+    <library name="powerpack (v0.1.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/powerpack-0.1.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/powerpack-0.1.1/lib" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
@@ -3920,6 +3954,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/rainbow-2.2.2/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/rainbow-2.2.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="rainbow (v2.2.2, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rainbow-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rainbow-2.2.2/ext" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
     <library name="raindrops (v0.18.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
@@ -4334,6 +4378,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/rubocop-0.27.1/bin" />
       </SOURCES>
     </library>
+    <library name="rubocop (v0.51.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/config" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rubocop-0.51.0/lib" />
+      </SOURCES>
+    </library>
     <library name="ruby-progressbar (v1.4.2, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/ruby-progressbar-1.4.2/lib" />
@@ -4348,6 +4406,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/ruby-progressbar-1.4.2/lib" />
+      </SOURCES>
+    </library>
+    <library name="ruby-progressbar (v1.9.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/ruby-progressbar-1.9.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/ruby-progressbar-1.9.0/lib" />
       </SOURCES>
     </library>
     <library name="ruby2ruby (v2.3.2, Remote: ruby-2.2.0-p0 (1)) [gem]">
@@ -5522,6 +5588,16 @@
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/unf_ext-0.0.7.4/ext" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/unf_ext-0.0.7.4/lib" />
+      </SOURCES>
+    </library>
+    <library name="unicode-display_width (v1.3.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/unicode-display_width-1.3.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/unicode-display_width-1.3.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/unicode-display_width-1.3.0/data" />
       </SOURCES>
     </library>
     <library name="unicorn (v4.8.2, Remote: ruby-2.2.0-p0 (1)) [gem]">
