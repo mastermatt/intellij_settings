@@ -392,6 +392,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/better_errors-1.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="binding_of_caller (v0.7.2, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/binding_of_caller-0.7.2/ext" />
@@ -2596,6 +2604,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/journey-1.0.4/lib" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.6, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/json-1.8.6/ext" />
@@ -3780,6 +3796,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/pry-stack_explorer-0.4.9.2/lib" />
       </SOURCES>
     </library>
+    <library name="psych (v2.0.8, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
+      </SOURCES>
+    </library>
     <library name="public_suffix (v2.0.5, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/public_suffix-2.0.5/lib" />
@@ -4002,6 +4032,20 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/raindrops-0.19.0/archive" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
+      </SOURCES>
+    </library>
     <library name="rake (v12.0.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/rake-12.0.0/bin" />
@@ -4104,6 +4148,30 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/rbtrace-0.4.7/lib" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/rbtrace-0.4.7/tracers" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/rbtrace-0.4.7/ext" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
       </SOURCES>
     </library>
     <library name="reek (v1.3.8, Remote: ruby-2.2.0-p0 (1)) [gem]">
