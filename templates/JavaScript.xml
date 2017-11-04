@@ -1,9 +1,4 @@
 <templateSet group="JavaScript">
-  <template name="search" value="var searchResults = nlapiSearchRecord('$END$', null, [&#10;        &#10;    ], [&#10;        &#10;    ]);" description="SuiteScript Search" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
   <template name="try" value="try {&#10;    $SELECTION$&#10;} catch (e) {&#10;   &#10;}" description="try...catch" toReformat="false" toShortenFQNames="true">
     <context>
       <option name="JAVA_SCRIPT" value="true" />
