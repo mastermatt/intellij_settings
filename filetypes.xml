@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="newrelic.js" type="PLAIN_TEXT" />
       <mapping pattern="parallel_tests" type="Ruby" />
     </extensionMap>
   </component>
