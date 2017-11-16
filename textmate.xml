@@ -13,14 +13,14 @@
         <entry key="All hallow's eve" value="All Hallow's Eve" />
         <entry key="Blackboard" value="Blackboard" />
         <entry key="Cobalt" value="Cobalt" />
-        <entry key="Darcula" value="Cobalt" />
-        <entry key="Darcula copy" value="Blackboard" />
+        <entry key="Darcula" value="Darcula" />
         <entry key="Default" value="Darcula" />
         <entry key="Github" value="GitHub" />
         <entry key="Monokai" value="Monokai" />
         <entry key="Railscasts" value="RailsCasts" />
         <entry key="Twilight" value="Twilight" />
         <entry key="VibrantInk" value="VibrantInk" />
+        <entry key="_@user_Darcula" value="Mac Classic" />
       </map>
     </option>
   </component>
