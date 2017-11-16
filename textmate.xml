@@ -13,9 +13,9 @@
         <entry key="All hallow's eve" value="All Hallow's Eve" />
         <entry key="Blackboard" value="Blackboard" />
         <entry key="Cobalt" value="Cobalt" />
-        <entry key="Darcula" value="Blackboard" />
-        <entry key="Darcula copy" value="Darcula" />
-        <entry key="Default" value="Mac Classic" />
+        <entry key="Darcula" value="Cobalt" />
+        <entry key="Darcula copy" value="Blackboard" />
+        <entry key="Default" value="Darcula" />
         <entry key="Github" value="GitHub" />
         <entry key="Monokai" value="Monokai" />
         <entry key="Railscasts" value="RailsCasts" />
