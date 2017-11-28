@@ -4,6 +4,12 @@
       <mapping pattern=".gitignore_global" type="Git file" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern="parallel_tests" type="Ruby" />
+      <mapping pattern="Jenkinsfile" type="textmate" />
+      <mapping pattern="gvy" type="textmate" />
+      <mapping pattern="groovy" type="textmate" />
+      <mapping ext="gvy" type="textmate" />
+      <mapping ext="groovy" type="textmate" />
+      <mapping ext="jenkinsfile" type="textmate" />
     </extensionMap>
   </component>
 </application>
