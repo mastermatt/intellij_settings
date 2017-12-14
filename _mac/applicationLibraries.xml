@@ -3208,6 +3208,18 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/mysql2-0.3.15/lib" />
       </SOURCES>
     </library>
+    <library name="mysql2 (v0.4.9, Remote: ruby-2.2.0-p0 (1)) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/support" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/support" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/lib" />
+        <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/mysql2-0.4.9/ext" />
+      </SOURCES>
+    </library>
     <library name="mysql2 (v0.4.9, Remote:ruby-2.2.0-p0) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/IntelliJIdea2017.2/ruby_stubs/-310298013/1322250864/gems/mysql2-0.4.9/ext" />
