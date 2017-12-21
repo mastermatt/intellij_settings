@@ -1050,6 +1050,14 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/currencies-0.4.2/lib" />
       </SOURCES>
     </library>
+    <library name="daemons (v1.2.5, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/daemons-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/daemons-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="data_magic (v1.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/data_magic-1.0/config" />
@@ -1244,6 +1252,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-compose-1.1.7/bin" />
       </SOURCES>
     </library>
+    <library name="docker-sync (v0.5.2, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/bin" />
+      </SOURCES>
+    </library>
     <library name="domain_name (v0.5.20170404, Remote: ruby-2.2.0-p0 (1)) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.3/ruby_stubs/-109966169/1322250864/gems/domain_name-0.5.20170404/lib" />
@@ -1266,6 +1286,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/domain_name-0.5.20170404/tool" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/domain_name-0.5.20170404/data" />
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/domain_name-0.5.20170404/lib" />
+      </SOURCES>
+    </library>
+    <library name="dotenv (v2.2.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/bin" />
       </SOURCES>
     </library>
     <library name="emk-sinatra-url-for (v0.2.1, Remote: ruby-2.2.0-p0 (1)) [gem]">
@@ -5416,6 +5446,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/bundler/gems/taxamo-ruby-76c17b3e2d4a/lib" />
+      </SOURCES>
+    </library>
+    <library name="terminal-notifier (v2.0.0, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/vendor" />
       </SOURCES>
     </library>
     <library name="test-unit (v3.0.8, Remote: ruby-2.2.0-p0 (1)) [gem]">
