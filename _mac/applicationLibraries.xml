@@ -4012,6 +4012,16 @@
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/oj-2.13.1/lib" />
       </SOURCES>
     </library>
+    <library name="oj (v2.13.1, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/oj-2.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/oj-2.13.1/ext" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/oj-2.13.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/oj-2.13.1/ext" />
+      </SOURCES>
+    </library>
     <library name="openssl (v2.0.3, RVM: ruby-2.4.1 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.4.1/lib/ruby/2.4.0/openssl" />
@@ -4334,6 +4344,16 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/powerpack-0.1.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="pristine (v0.0.3, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/pristine-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/pristine-0.0.3/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/pristine-0.0.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/pristine-0.0.3/bin" />
       </SOURCES>
     </library>
     <library name="pry (v0.10.0, Remote: ruby-2.2.0-p0 (1)) [gem]">
@@ -4952,6 +4972,14 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/Library/Caches/RubyMine2017.2/ruby_stubs/-1968843361/1322250864/gems/rb-inotify-0.9.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="rb-inotify (v0.9.10, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rb-inotify-0.9.10/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rb-inotify-0.9.10/lib" />
       </SOURCES>
     </library>
     <library name="rbtrace (v0.4.7, Remote: ruby-2.2.0-p0 (1)) [gem]">
