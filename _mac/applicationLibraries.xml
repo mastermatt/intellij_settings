@@ -38,6 +38,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/backticks-1.0.2/bin" />
       </SOURCES>
     </library>
+    <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
+      </SOURCES>
+    </library>
     <library name="bigdecimal (v1.2.6, RVM: ruby-2.2.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/bigdecimal" />
@@ -300,6 +308,14 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/coderay-1.1.2/bin" />
       </SOURCES>
     </library>
+    <library name="daemons (v1.2.5, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/daemons-1.2.5/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/daemons-1.2.5/lib" />
+      </SOURCES>
+    </library>
     <library name="daemons (v1.2.5, RVM: ruby-2.2.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/daemons-1.2.5/lib" />
@@ -406,6 +422,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-compose-1.1.7/bin" />
       </SOURCES>
     </library>
+    <library name="docker-sync (v0.5.2, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/bin" />
+      </SOURCES>
+    </library>
     <library name="docker-sync (v0.5.2, RVM: ruby-2.2.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/tasks" />
@@ -416,6 +444,16 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/tasks" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/bin" />
+      </SOURCES>
+    </library>
+    <library name="dotenv (v2.2.1, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/bin" />
       </SOURCES>
     </library>
     <library name="dotenv (v2.2.1, RVM: ruby-2.2.7) [gem]">
@@ -1216,6 +1254,14 @@
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/unicode_normalize" />
       </SOURCES>
     </library>
+    <library name="json (v1.8.1, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
+      </SOURCES>
+    </library>
     <library name="json (v1.8.1, RVM: ruby-2.2.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/json/add" />
@@ -1670,6 +1716,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.0@commerce/gems/pry-0.11.1/bin" />
       </SOURCES>
     </library>
+    <library name="psych (v2.0.8, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/nodes" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/json" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/visitors" />
+      </SOURCES>
+    </library>
     <library name="psych (v2.0.8, RVM: ruby-2.2.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/psych/handlers" />
@@ -1802,6 +1862,20 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rainbow-2.2.2/lib" />
       </SOURCES>
     </library>
+    <library name="rake (v10.4.2, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/ext" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/contrib" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/loaders" />
+      </SOURCES>
+    </library>
     <library name="rake (v10.4.2, RVM: ruby-2.2.7) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rake/lib" />
@@ -1882,6 +1956,30 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/rb-inotify-0.9.10/lib" />
+      </SOURCES>
+    </library>
+    <library name="rdoc (v4.2.0, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/context" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/generator" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/stats" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/parser" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/ri" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/rd" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markup" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/i18n" />
+        <root url="file://$USER_HOME$/.rvm/rubies/ruby-2.2.7/lib/ruby/2.2.0/rdoc/markdown" />
       </SOURCES>
     </library>
     <library name="rdoc (v4.2.0, RVM: ruby-2.2.7) [gem]">
@@ -2302,6 +2400,18 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.4.2/gems/sinatra-advanced-routes-0.5.3/lib" />
+      </SOURCES>
+    </library>
+    <library name="terminal-notifier (v2.0.0, RVM: ruby-2.2.7 [global]) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/vendor" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/terminal-notifier-2.0.0/vendor" />
       </SOURCES>
     </library>
     <library name="terminal-notifier (v2.0.0, RVM: ruby-2.2.7) [gem]">
