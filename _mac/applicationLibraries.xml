@@ -446,6 +446,18 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/docker-sync-0.5.2/bin" />
       </SOURCES>
     </library>
+    <library name="docker-sync (v0.5.4, RVM: ruby-2.2.7) [gem]">
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/docker-sync-0.5.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/docker-sync-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/docker-sync-0.5.4/bin" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/docker-sync-0.5.4/tasks" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/docker-sync-0.5.4/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7/gems/docker-sync-0.5.4/bin" />
+      </SOURCES>
+    </library>
     <library name="dotenv (v2.2.1, RVM: ruby-2.2.7 [global]) [gem]">
       <CLASSES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.2.7@global/gems/dotenv-2.2.1/lib" />
