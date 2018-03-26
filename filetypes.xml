@@ -2,8 +2,11 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping pattern="env_vars" type="PLAIN_TEXT" />
+      <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <removed_mapping pattern=".gitmodules" type="PLAIN_TEXT" />
       <mapping pattern="parallel_tests" type="Ruby" />
+      <mapping pattern="2018-03-09-COM-4480-user-unique-keys" type="SQL" />
       <mapping pattern="ConnectionClient" type="TypeScript" />
     </extensionMap>
   </component>

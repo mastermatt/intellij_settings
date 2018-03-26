@@ -15,6 +15,12 @@
   <SqlCodeStyleSettings>
     <option name="ALIGN_AS_IN_SELECT_STATEMENT" value="false" />
   </SqlCodeStyleSettings>
+  <TypeScriptCodeStyleSettings>
+    <option name="ENFORCE_TRAILING_COMMA" value="WhenMultiline" />
+    <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
+    <option name="SPACES_WITHIN_IMPORTS" value="true" />
+    <option name="IMPORT_SORT_MODULE_NAME" value="true" />
+  </TypeScriptCodeStyleSettings>
   <XML>
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
@@ -51,9 +57,20 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="TypeScript">
+    <option name="ALIGN_MULTILINE_ARRAY_INITIALIZER_EXPRESSION" value="true" />
+    <option name="METHOD_CALL_CHAIN_WRAP" value="5" />
+    <option name="ARRAY_INITIALIZER_WRAP" value="1" />
+    <option name="ARRAY_INITIALIZER_LBRACE_ON_NEXT_LINE" value="true" />
+    <option name="ARRAY_INITIALIZER_RBRACE_ON_NEXT_LINE" value="true" />
     <indentOptions>
       <option name="INDENT_SIZE" value="2" />
       <option name="TAB_SIZE" value="2" />
+    </indentOptions>
+  </codeStyleSettings>
+  <codeStyleSettings language="ruby">
+    <indentOptions>
+      <option name="CONTINUATION_INDENT_SIZE" value="2" />
+      <option name="USE_RELATIVE_INDENTS" value="false" />
     </indentOptions>
   </codeStyleSettings>
 </code_scheme>
