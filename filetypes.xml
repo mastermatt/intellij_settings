@@ -11,6 +11,7 @@
       <mapping pattern="2018-03-09-COM-4480-user-unique-keys" type="SQL" />
       <mapping pattern="ConnectionClient" type="TypeScript" />
       <mapping pattern="swagger-to-ts-interfaces" type="TypeScript" />
+      <mapping ext="yamnl" type="YAML" />
     </extensionMap>
   </component>
 </application>
