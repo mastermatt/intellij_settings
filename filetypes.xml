@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping ext="local" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="env_vars" type="PLAIN_TEXT" />
       <mapping pattern="Jenkinsfile_one" type="PLAIN_TEXT" />
