@@ -20,6 +20,7 @@
       <mapping pattern="swagger-to-ts-interfaces" type="TypeScript" />
       <mapping pattern="DeferredItemDocument" type="YAML" />
       <mapping ext="yamnl" type="YAML" />
+      <mapping ext="yam" type="YAML" />
     </extensionMap>
   </component>
 </application>
