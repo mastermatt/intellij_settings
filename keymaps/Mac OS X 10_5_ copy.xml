@@ -38,6 +38,7 @@
     <keyboard-shortcut first-keystroke="ctrl alt up" />
   </action>
   <action id="ThePlugin.JIRA.ShowHideJIRATab" />
+  <action id="ToggleCamelSnakeCase" />
   <action id="ToggleDistractionFreeMode">
     <keyboard-shortcut first-keystroke="ctrl meta enter" />
   </action>
