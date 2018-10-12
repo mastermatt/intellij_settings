@@ -25,7 +25,7 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="test" value="it(&quot;$NAME$&quot;, async () =&gt; {&#10;  $END$&#10;});&#10;" description="Inserts test() block" toReformat="true" toShortenFQNames="true">
+  <template name="test" value="test(&quot;$NAME$&quot;, async () =&gt; {&#10;  $END$&#10;});&#10;" description="Inserts test() block" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
