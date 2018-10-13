@@ -6,7 +6,7 @@
   <template name="bfe" value="beforeEach(function() {&#10;  $END$&#10;});" description="Inserts beforeEach() block" toReformat="true" toShortenFQNames="true" deactivated="true">
     <context />
   </template>
-  <template name="it" value="it('should $NAME$', function() {&#10;  $END$&#10;}); " description="Inserts it() block" toReformat="true" toShortenFQNames="true" deactivated="true">
+  <template name="it" value="it(&quot;should $NAME$&quot;, async () =&gt; {&#10;  $END$&#10;}); " description="Inserts it() block" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context />
   </template>
@@ -21,12 +21,6 @@
   </template>
   <template name="desc" value="describe(&quot;$NAME$&quot;, () =&gt; {&#10;  $END$&#10;});&#10;" description="Inserts describe() block" toReformat="true" toShortenFQNames="true">
     <variable name="NAME" expression="jsMethodName()" defaultValue="" alwaysStopAt="true" />
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
-  <template name="test" value="test(&quot;$NAME$&quot;, async () =&gt; {&#10;  $END$&#10;});&#10;" description="Inserts test() block" toReformat="true" toShortenFQNames="true">
-    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
       <option name="JAVA_SCRIPT" value="true" />
     </context>
