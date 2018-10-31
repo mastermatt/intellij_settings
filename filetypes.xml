@@ -16,6 +16,7 @@
       <mapping pattern="parallel_tests" type="Ruby" />
       <mapping pattern="aaaaaaa" type="Ruby" />
       <mapping pattern="2018-03-09-COM-4480-user-unique-keys" type="SQL" />
+      <mapping pattern="2018-10-31-ix-bill-item-groups-id" type="SQL" />
       <mapping pattern="ConnectionClient" type="TypeScript" />
       <mapping pattern="swagger-to-ts-interfaces" type="TypeScript" />
       <mapping pattern="DeferredItemDocument" type="YAML" />
