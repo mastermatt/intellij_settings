@@ -7,8 +7,7 @@
     <perl version="2">
       <name value="Perl v5.18.2" />
       <type value="Perl5 Interpreter" />
-      <version value="v5.18.2 for darwin-thread-multi-2level" />
-      <homePath value="/usr/bin" />
+      <homePath value="/usr/bin/perl" />
       <roots>
         <classPath>
           <root type="composite">
