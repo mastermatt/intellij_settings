@@ -17595,6 +17595,7 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -17604,6 +17605,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/suppressions" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/nokogiri/1.8.4" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/nokogiri-1.8.4/lib" />
@@ -17990,12 +17992,14 @@
         <option name="version" value="3" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.8/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.8/pages" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs25/oj/3.6.8" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.8/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.8/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.5.1/gems/oj-3.6.8/test" />
