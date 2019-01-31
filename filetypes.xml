@@ -4,6 +4,7 @@
       <mapping ext="local" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
       <mapping pattern="" type="JQL" />
+      <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern="CLOUD_ELEMENTS" type="JSON" />
       <mapping pattern="env_vars" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
