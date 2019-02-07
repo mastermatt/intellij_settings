@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="local" type="Dockerfile" />
       <mapping pattern=".gitignore_global" type="Git file" />
+      <mapping ext="mhtml" type="HTML" />
       <mapping pattern="" type="JQL" />
       <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern="CLOUD_ELEMENTS" type="JSON" />
