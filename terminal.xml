@@ -1,8 +1,6 @@
-<?xml version="1.0" encoding="UTF-8"?>
 <application>
   <component name="TerminalOptionsProvider">
-    <option name="myShellPath" value="/bin/bash --rcfile ~/.pycharmrc" />
-    <option name="myTabName" value="Hegemon" />
+    <option name="myShellPath" value="" />
+    <option name="myTabName" value="" />
   </component>
 </application>
-
