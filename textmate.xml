@@ -6,6 +6,10 @@
           <option name="name" value="Groovy" />
           <option name="path" value="$USER_HOME$/src/textmate/groovy.tmbundle" />
         </BundleConfigBean>
+        <BundleConfigBean>
+          <option name="name" value="Perl Mason" />
+          <option name="path" value="$USER_HOME$/src/textmate/perl-mason.tmbundle" />
+        </BundleConfigBean>
       </list>
     </option>
     <option name="themesMapping">
@@ -14,8 +18,10 @@
         <entry key="Blackboard" value="Blackboard" />
         <entry key="Cobalt" value="Cobalt" />
         <entry key="Darcula" value="Darcula" />
+        <entry key="Darcula 2018.2" value="Mac Classic" />
         <entry key="Default" value="Darcula" />
         <entry key="Github" value="GitHub" />
+        <entry key="High сontrast" value="Mac Classic" />
         <entry key="Monokai" value="Monokai" />
         <entry key="Railscasts" value="RailsCasts" />
         <entry key="Twilight" value="Twilight" />
