@@ -8,6 +8,7 @@
       <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern="CLOUD_ELEMENTS" type="JSON" />
       <mapping pattern="env_vars" type="PLAIN_TEXT" />
+      <mapping pattern="BAKERY_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
