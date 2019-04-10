@@ -233,6 +233,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-partitions-1.148.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.149.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-partitions-1.149.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-partitions-1.149.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v3.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -2328,6 +2339,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.12.0/frozen_old_spec" />
       </excluded>
     </library>
+    <library name="backports (v3.13.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/frozen_old_spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/frozen_old_spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/set_version" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/backports-3.13.0/frozen_old_spec" />
+      </excluded>
+    </library>
     <library name="bigdecimal (v1.4.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3236,6 +3272,28 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.2/bin" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.2/gemfiles" />
+      </excluded>
+    </library>
+    <library name="faraday-detailed_logger (v2.1.3, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/gemfiles" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/gemfiles" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faraday-detailed_logger-2.1.3/gemfiles" />
       </excluded>
     </library>
     <library name="faraday_middleware (v0.13.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -4956,6 +5014,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.0/test" />
       </excluded>
     </library>
+    <library name="parser (v2.6.2.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/ci" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/doc" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/parser-2.6.2.1/test" />
+      </excluded>
+    </library>
     <library name="path_expander (v1.0.3, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -5957,6 +6040,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sauce_whisk-0.1.0/lib" />
       </SOURCES>
     </library>
+    <library name="sauce_whisk (v0.2.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sauce_whisk-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sauce_whisk-0.2.0/lib" />
+      </SOURCES>
+    </library>
     <library name="savon (v2.12.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -6111,6 +6205,25 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/shutterstock-health-monitor-0.002/spec" />
+      </excluded>
+    </library>
+    <library name="shutterstock_access_token (v0.0.3@7c1618, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/test" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/test" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/ruby-shutterstock-access-token-7c1618600e2b/test" />
       </excluded>
     </library>
     <library name="shutterstock_access_token (v0.0.3@d2e3e1, RVM: ruby-2.6.2) [gem]" type="rubylib">
