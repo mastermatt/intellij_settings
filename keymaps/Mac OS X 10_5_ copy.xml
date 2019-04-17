@@ -8,6 +8,9 @@
   <action id="CodeHistoryMiningRunScript">
     <keyboard-shortcut first-keystroke="shift alt e" />
   </action>
+  <action id="EditorCloneCaretBelow">
+    <keyboard-shortcut first-keystroke="shift ctrl down" />
+  </action>
   <action id="FillParagraph">
     <keyboard-shortcut first-keystroke="shift meta l" />
   </action>
