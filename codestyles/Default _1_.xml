@@ -13,7 +13,7 @@
     <option name="INDENT_CHAINED_CALLS" value="false" />
   </JSCodeStyleSettings>
   <MarkdownNavigatorCodeStyleSettings>
-    <option name="WRAP_ON_TYPING" value="1" />
+    <option name="WRAP_ON_TYPING" value="0" />
     <option name="RIGHT_MARGIN" value="72" />
   </MarkdownNavigatorCodeStyleSettings>
   <Python>
@@ -79,7 +79,6 @@
     </indentOptions>
   </codeStyleSettings>
   <codeStyleSettings language="SQL">
-    <option name="KEEP_FIRST_COLUMN_COMMENT" value="true" />
     <indentOptions>
       <option name="CONTINUATION_INDENT_SIZE" value="2" />
       <option name="KEEP_INDENTS_ON_EMPTY_LINES" value="true" />
