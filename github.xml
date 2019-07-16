@@ -7,7 +7,6 @@
   <component name="GithubSettings">
     <option name="HOST" value="https://github.shuttercorp.net" />
     <option name="AUTH_TYPE" value="TOKEN" />
-    <option name="COPY_URL_GIST" value="true" />
     <option name="PRIVATE_GIST" value="false" />
   </component>
 </application>
