@@ -11,6 +11,7 @@
       <mapping pattern="DATABASE_API_PASS" type="JSON" />
       <mapping pattern="SALESFORCE_CLIENT_ID" type="JSON" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
