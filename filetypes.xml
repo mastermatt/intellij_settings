@@ -11,22 +11,21 @@
       <mapping pattern="DATABASE_API_PASS" type="JSON" />
       <mapping pattern="SALESFORCE_CLIENT_ID" type="JSON" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
-      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="SALESFORCE_REFRESH_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern=".npmrc" type="PLAIN_TEXT" />
       <mapping pattern="BAKERY_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern="env_vars" type="PLAIN_TEXT" />
-      <mapping pattern="SALESFORCE_REFRESH_TOKEN" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
+      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
-      <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".simplecov" type="Ruby" />
       <mapping pattern="parallel_tests" type="Ruby" />
       <mapping pattern="aaaaaaa" type="Ruby" />
@@ -35,8 +34,8 @@
       <mapping pattern="ConnectionClient" type="TypeScript" />
       <mapping pattern="swagger-to-ts-interfaces" type="TypeScript" />
       <mapping pattern="DeferredItemDocument" type="YAML" />
-      <mapping ext="yamnl" type="YAML" />
       <mapping ext="yam" type="YAML" />
+      <mapping ext="yamnl" type="YAML" />
       <removed_mapping ext="java" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
