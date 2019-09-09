@@ -14,6 +14,7 @@
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
       <mapping pattern="env_vars" type="PLAIN_TEXT" />
+      <mapping pattern="appleValid" type="PLAIN_TEXT" />
       <mapping pattern="SALESFORCE_REFRESH_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern="BAKERY_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
