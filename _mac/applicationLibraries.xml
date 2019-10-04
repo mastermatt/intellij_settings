@@ -3697,11 +3697,13 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.10.0/samples" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/ffi/1.10.0" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.10.0/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.10.0/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/ffi-1.10.0/samples" />
@@ -4343,10 +4345,12 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/lib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/jaro_winkler/1.5.2" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jaro_winkler-1.5.2/lib" />
       </SOURCES>
@@ -5228,6 +5232,7 @@
         <option name="version" value="4" />
       </properties>
       <CLASSES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/msgpack/1.2.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/msgpack-1.2.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/msgpack-1.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/msgpack-1.2.9/spec" />
@@ -5235,6 +5240,7 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/msgpack-1.2.9/doclib" />
       </CLASSES>
       <SOURCES>
+        <root url="file://$APPLICATION_CONFIG_DIR$/rubystubs/rubystubs26/msgpack/1.2.9" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/msgpack-1.2.9/ext" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/msgpack-1.2.9/lib" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/msgpack-1.2.9/spec" />
@@ -7183,6 +7189,31 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.66.0/config" />
       </excluded>
     </library>
+    <library name="rubocop (v0.75.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/config" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/config" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/exe" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/assets" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/rubocop-0.75.0/config" />
+      </excluded>
+    </library>
     <library name="ruby-prof (v0.17.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7748,6 +7779,28 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/sift-ruby-62809039562b/.git" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/sift-ruby-62809039562b/spec" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/bundler/gems/sift-ruby-62809039562b/examples" />
+      </excluded>
+    </library>
+    <library name="sift (v4.0.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/.circleci" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/.circleci" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/examples" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/sift-4.0.0/.circleci" />
       </excluded>
     </library>
     <library name="simplecov (v0.16.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -8587,6 +8640,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/unicode-display_width-1.5.0/data" />
+      </excluded>
+    </library>
+    <library name="unicode-display_width (v1.6.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/unicode-display_width-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/unicode-display_width-1.6.0/data" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/unicode-display_width-1.6.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/unicode-display_width-1.6.0/data" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/unicode-display_width-1.6.0/data" />
       </excluded>
     </library>
     <library name="unicode_utils (v1.4.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
