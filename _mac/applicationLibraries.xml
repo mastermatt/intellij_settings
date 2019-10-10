@@ -310,6 +310,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-partitions-1.221.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-partitions (v1.222.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-partitions-1.222.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-partitions-1.222.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk (v3.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -1998,6 +2009,17 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-sdk-s3-1.48.0/lib" />
       </SOURCES>
     </library>
+    <library name="aws-sdk-s3 (v1.49.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-sdk-s3-1.49.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/aws-sdk-s3-1.49.0/lib" />
+      </SOURCES>
+    </library>
     <library name="aws-sdk-s3control (v1.2.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -3624,6 +3646,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faker-2.5.0/bin" />
       </excluded>
     </library>
+    <library name="faker (v2.6.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faker-2.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faker-2.6.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faker-2.6.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faker-2.6.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/faker-2.6.0/bin" />
+      </excluded>
+    </library>
     <library name="faraday (v0.15.4, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -4228,6 +4266,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/i18n-1.6.0/lib" />
+      </SOURCES>
+    </library>
+    <library name="i18n (v1.7.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/i18n-1.7.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/i18n-1.7.0/lib" />
       </SOURCES>
     </library>
     <library name="i18n_data (v0.8.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -5115,6 +5164,25 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.0/test" />
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.0/assets" />
+      </excluded>
+    </library>
+    <library name="minitest-reporters (v1.4.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/assets" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/assets" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/minitest-reporters-1.4.1/assets" />
       </excluded>
     </library>
     <library name="minitest-reporters-parallel_tests_reporter (v0.0.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
