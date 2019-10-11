@@ -1,6 +1,7 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern="push-newsss" type="Bash" />
       <mapping ext="local" type="Dockerfile" />
       <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="*.js.flow" type="Flow" />
@@ -9,25 +10,25 @@
       <mapping pattern=".nycrc" type="JSON" />
       <mapping pattern="DATABASE_API_PASS" type="JSON" />
       <mapping pattern="CLOUD_ELEMENTS" type="JSON" />
-      <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
+      <mapping pattern="env_vars" type="PLAIN_TEXT" />
+      <mapping pattern="BAKERY_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern="PROOF_OF_PURCHASE" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".prettierrc" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY_SDK_KEY" type="PLAIN_TEXT" />
-      <mapping pattern="env_vars" type="PLAIN_TEXT" />
       <mapping pattern="appleValid" type="PLAIN_TEXT" />
       <mapping pattern=".snyk" type="PLAIN_TEXT" />
       <mapping pattern="SALESFORCE_REFRESH_TOKEN" type="PLAIN_TEXT" />
-      <mapping pattern="BAKERY_TOKEN" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
       <mapping ext="cnf" type="PLAIN_TEXT" />
+      <mapping ext="info" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
-      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
+      <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <mapping pattern="parallel_tests" type="Ruby" />
       <mapping pattern=".simplecov" type="Ruby" />
       <mapping pattern="aaaaaaa" type="Ruby" />
@@ -49,7 +50,6 @@
       <removed_mapping ext="snakefile" approved="true" type="textmate" />
       <removed_mapping ext="properties" approved="true" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore_global" type="Git file" />
-      <mapping pattern="push-newsss" type="Bash" />
     </extensionMap>
   </component>
 </application>
