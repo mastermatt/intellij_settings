@@ -13,10 +13,10 @@
       <mapping pattern="BAKERY_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
       <mapping pattern="PROOF_OF_PURCHASE" type="PLAIN_TEXT" />
-      <mapping pattern="env_vars_qa" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY_SDK_KEY" type="PLAIN_TEXT" />
+      <mapping pattern="env_vars_qa" type="PLAIN_TEXT" />
       <mapping pattern="appleValid" type="PLAIN_TEXT" />
       <mapping pattern=".snyk" type="PLAIN_TEXT" />
       <mapping pattern="SALESFORCE_REFRESH_TOKEN" type="PLAIN_TEXT" />
