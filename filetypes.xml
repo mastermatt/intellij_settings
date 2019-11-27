@@ -2,37 +2,35 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping ext="local" type="Dockerfile" />
-      <mapping pattern="*.js.flow" type="Flow" />
-      <mapping pattern="*.js.flow" type="Flow" />
       <mapping pattern="" type="JQL" />
-      <mapping pattern="SALESFORCE_CLIENT_ID" type="JSON" />
       <mapping pattern=".nycrc" type="JSON" />
-      <mapping pattern="DATABASE_API_PASS" type="JSON" />
       <mapping pattern="CLOUD_ELEMENTS" type="JSON" />
-      <mapping pattern="env_vars" type="PLAIN_TEXT" />
+      <mapping pattern="SALESFORCE_CLIENT_ID" type="JSON" />
+      <mapping pattern="DATABASE_API_PASS" type="JSON" />
+      <mapping pattern="env_vars_qa" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern="PROOF_OF_PURCHASE" type="PLAIN_TEXT" />
+      <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
+      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
+      <mapping pattern="LAUNCH_DARKLY_SDK_KEY" type="PLAIN_TEXT" />
       <mapping pattern="BAKERY_TOKEN" type="PLAIN_TEXT" />
       <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
-      <mapping pattern="PROOF_OF_PURCHASE" type="PLAIN_TEXT" />
-      <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
-      <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
-      <mapping pattern="LAUNCH_DARKLY_SDK_KEY" type="PLAIN_TEXT" />
-      <mapping pattern="env_vars_qa" type="PLAIN_TEXT" />
-      <mapping pattern="appleValid" type="PLAIN_TEXT" />
       <mapping pattern=".snyk" type="PLAIN_TEXT" />
+      <mapping pattern="appleValid" type="PLAIN_TEXT" />
       <mapping pattern="SALESFORCE_REFRESH_TOKEN" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping ext="cnf" type="PLAIN_TEXT" />
-      <mapping ext="test" type="PLAIN_TEXT" />
+      <mapping pattern="env_vars" type="PLAIN_TEXT" />
       <mapping ext="info" type="PLAIN_TEXT" />
+      <mapping ext="cnf" type="PLAIN_TEXT" />
       <mapping ext="gem" type="PLAIN_TEXT" />
+      <mapping ext="test" type="PLAIN_TEXT" />
       <mapping ext="db" type="PLAIN_TEXT" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
-      <mapping pattern="2018-03-09-COM-4480-user-unique-keys" type="SQL" />
       <mapping pattern="2018-10-31-ix-bill-item-groups-id" type="SQL" />
-      <mapping pattern="ConnectionClient" type="TypeScript" />
+      <mapping pattern="2018-03-09-COM-4480-user-unique-keys" type="SQL" />
       <mapping pattern="swagger-to-ts-interfaces" type="TypeScript" />
+      <mapping pattern="ConnectionClient" type="TypeScript" />
       <mapping pattern="DeferredItemDocument" type="YAML" />
       <mapping ext="yamnl" type="YAML" />
       <mapping ext="yam" type="YAML" />
