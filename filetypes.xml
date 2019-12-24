@@ -9,6 +9,7 @@
       <mapping pattern="CLOUD_ELEMENTS" type="JSON" />
       <mapping pattern=".resultset.json.lock" type="PLAIN_TEXT" />
       <mapping pattern="PROOF_OF_PURCHASE" type="PLAIN_TEXT" />
+      <mapping pattern=".prettierignore" type="PLAIN_TEXT" />
       <mapping pattern=".nvmrc" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY" type="PLAIN_TEXT" />
       <mapping pattern="LAUNCH_DARKLY_SDK_KEY" type="PLAIN_TEXT" />
