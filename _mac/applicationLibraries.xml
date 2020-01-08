@@ -84,6 +84,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-2c11035bc648/generators" />
       </excluded>
     </library>
+    <library name="activemerchant (v1.82.0@f2df20, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/generators" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-f2df20ea47aa/generators" />
+      </excluded>
+    </library>
     <library name="activesupport (v5.2.2.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
