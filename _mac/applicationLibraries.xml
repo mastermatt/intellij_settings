@@ -84,6 +84,34 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-2c11035bc648/generators" />
       </excluded>
     </library>
+    <library name="activemerchant (v1.82.0@96bec4, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/generators" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/generators" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/.git" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/test" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/script" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/gemfiles" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/bundler/gems/active_merchant-96bec47bbab2/generators" />
+      </excluded>
+    </library>
     <library name="activemerchant (v1.82.0@f2df20, RVM: ruby-2.7.0) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -154,6 +182,17 @@
       </CLASSES>
       <SOURCES>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/activesupport-5.2.4.1/lib" />
+      </SOURCES>
+    </library>
+    <library name="activesupport (v6.0.2.1, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/activesupport-6.0.2.1/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/activesupport-6.0.2.1/lib" />
       </SOURCES>
     </library>
     <library name="addressable (v2.6.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -545,6 +584,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/ast-2.4.0/test" />
+      </excluded>
+    </library>
+    <library name="atlassian-jwt (v0.2.0, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/atlassian-jwt-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/atlassian-jwt-0.2.0/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/atlassian-jwt-0.2.0/bin" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/atlassian-jwt-0.2.0/lib" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/atlassian-jwt-0.2.0/bin" />
       </excluded>
     </library>
     <library name="awesome_print (v1.8.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -7705,6 +7760,22 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jira-ruby-1.6.0/spec" />
       </excluded>
     </library>
+    <library name="jira-ruby (v1.7.1, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jira-ruby-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jira-ruby-1.7.1/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jira-ruby-1.7.1/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jira-ruby-1.7.1/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jira-ruby-1.7.1/spec" />
+      </excluded>
+    </library>
     <library name="jmespath (v1.4.0, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -7902,6 +7973,22 @@
       </SOURCES>
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.6.2/gems/jwt-2.1.0/spec" />
+      </excluded>
+    </library>
+    <library name="jwt (v2.1.0, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jwt-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jwt-2.1.0/spec" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jwt-2.1.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jwt-2.1.0/spec" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/jwt-2.1.0/spec" />
       </excluded>
     </library>
     <library name="jwt (v2.2.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
@@ -16412,6 +16499,25 @@
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-2.0.2/spec" />
       </excluded>
     </library>
+    <library name="swagger-blocks (v3.0.0, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/.github" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/lib" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/.github" />
+      </SOURCES>
+      <excluded>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/spec" />
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/swagger-blocks-3.0.0/.github" />
+      </excluded>
+    </library>
     <library name="systemu (v2.6.5, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
         <option name="version" value="4" />
@@ -18788,6 +18894,17 @@
       <excluded>
         <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/yml_reader-0.7/spec" />
       </excluded>
+    </library>
+    <library name="zeitwerk (v2.2.2, RVM: ruby-2.7.0) [gem]" type="rubylib">
+      <properties>
+        <option name="version" value="4" />
+      </properties>
+      <CLASSES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/zeitwerk-2.2.2/lib" />
+      </CLASSES>
+      <SOURCES>
+        <root url="file://$USER_HOME$/.rvm/gems/ruby-2.7.0/gems/zeitwerk-2.2.2/lib" />
+      </SOURCES>
     </library>
     <library name="zip-code-info (v0.2.1, RVM: ruby-2.6.2) [gem]" type="rubylib">
       <properties>
