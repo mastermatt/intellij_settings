@@ -3,7 +3,7 @@
     <account id="6bf66e8a-cc9f-4b66-95ee-7091564b4835" name="mwilson">
       <server useHttp="false" host="github.shuttercorp.net" />
     </account>
-    <account id="1ecc54d2-760c-4673-ade5-46a3dbc23539" name="github@mattw.co">
+    <account id="1ecc54d2-760c-4673-ade5-46a3dbc23539" name="mastermatt">
       <server host="github.com" />
     </account>
   </component>
